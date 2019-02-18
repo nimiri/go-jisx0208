@@ -1,1 +1,1 @@
-module github.com/hajimehoshi/go-jisx0208
+module github.com/nimiri/go-jisx0208
